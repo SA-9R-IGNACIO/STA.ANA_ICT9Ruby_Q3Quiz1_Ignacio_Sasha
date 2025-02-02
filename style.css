@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: lightblue;
+}
+
+.btn {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: lightblue;
+}
+
+document.write
